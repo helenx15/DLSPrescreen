@@ -1,0 +1,6 @@
+framework module Pods_DLSCovidScreen {
+  umbrella header "Pods-DLSCovidScreen-umbrella.h"
+
+  export *
+  module * { export * }
+}
